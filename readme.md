@@ -27,4 +27,6 @@ I play the guitar in my free time. I also enjoy watching movies and playing comp
 - [x] Learn Web Development technologies (React)
 - [ ] Improve my knowledge of data structures and algorithms
 
+## Screenshot of commands typed on terminal
 
+![test][./git_commands.png]
