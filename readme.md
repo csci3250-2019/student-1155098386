@@ -21,9 +21,10 @@ I am still a beginner at using GitHub for version control. I have used it when w
 ## **Interests**
 I play the guitar in my free time. I also enjoy watching movies and playing computer games
 
-## **Things I would like to do this year:**
+## **Things I would like to accomplish this year:**
 - [x] Plan a trip aborad this summer
 - [ ] Learn a new programming language 
 - [x] Learn Web Development technologies (React)
 - [ ] Improve my knowledge of data structures and algorithms
+
 
